@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply bg-white;
+}
+
+.group:hover .placeholder-hover\:text-sm::placeholder {
+    @apply text-sm;
+  }
