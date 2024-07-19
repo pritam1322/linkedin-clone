@@ -17,7 +17,7 @@ export default function LoginLayout({ children }) {
         </div>
         {children}
         <div className="text-sm text-center mt-8">
-          <span>Don't have an account?</span>
+          <span>Don&apos;t have an account?</span>
           <button className="text-blue-700 p-1 font-semibold hover:underline hover:rounded-full hover:bg-blue-200">Sign Up</button>
         </div>
       </body>
