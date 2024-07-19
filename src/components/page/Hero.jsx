@@ -2,7 +2,7 @@ import EditButton from "@/components/buttons/EditButton";
 import BackgroundEditbutton from "../buttons/BackgroundEditbutton";
 import JobPreference from "../buttons/JobPreference";
 import UploadImages from "../forms/UploadImages";
-import UserBasicInfo from "../sections/userBasicInfo";
+import UserBasicInfo from "../sections/UserBasicInfo";
 
 export default async function Hero(session) {
     return (
